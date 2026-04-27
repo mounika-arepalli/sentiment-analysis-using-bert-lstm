@@ -28,7 +28,7 @@ Domain-adaptive sentiment analysis system using BERT and LSTM to analyze real-wo
 ## 📂 Project Structure
 project/
 │── multidomain.py
-│── model.py
+│── evalution_plots.py
 │── requirements.txt
 │── README.md
 
